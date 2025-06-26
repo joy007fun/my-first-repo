@@ -1,4 +1,3 @@
-def adder():
-    for i in range(5):
-        adder += adder
-        print(adder)
+def sum(a,b):
+    c = a + b
+    return c
